@@ -1,8 +1,9 @@
 - Hi, I’m Sean Gaygen
 - I started programming by learning how to use an Arduino.
-- As that's just C with some extra functions, I transitioned to C++ pretty easily by finishing Euler Project problems.
-- I then transitioned to Python through further Eulers, Advent of Code, and multiple personal projects. I'm definitely most comfortable with Python.
-- I'm currently learning web-development (HTML, CSS, Javascript & Jquery) through Django.
+- I then transitioned to C++ by finishing Euler Project problems.
+- I eventually switched again to Python through further Eulers, Advent of Code, and multiple personal projects.
+- I have also dabbled with web-development on-and-off (HTML, CSS, Javascript & Jquery) through Django.
+- For the last two years, I've been working primarily with LabView for my job, along with finally attending college.
 - Reach me at Sean@Gaygen.com
 
 <!---
